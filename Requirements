@@ -1,0 +1,7 @@
+For requirements 
+Python 3.9+.
+
+
+pip install pandas requests groq
+
+pip install pandas groq python-telegram-bot
